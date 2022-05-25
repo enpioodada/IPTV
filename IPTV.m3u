@@ -814,50 +814,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 ,新疆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
-#EXTINF:-1 ,云南卫视
-#EXTINF:-1 group-title="直播中国",山东-泰山
-https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",山东-泰山主峰
-https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",山东-瞻鲁台
-https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",山东-泰山十八盘
-https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",山东-玉皇顶西
-https://gcalic.v.myalicdn.com/gc/hkts11_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",山东-玉皇顶东
-https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",山东-太平岭
-https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",山东-扇子崖
-https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",山东-南天门
-https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",山东-开山
-https://gcalic.v.myalicdn.com/gc/hkts05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",山东-经石峪
-https://gcalic.v.myalicdn.com/gc/hkts04_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",山东-碧霞祠
-https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",山东-白云亭悬崖
-https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",山东-拱北日出
-https://gcalic.v.myalicdn.com/gc/hkts01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",山东-泰山天街
-https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",山东-泰山玉皇顶
-https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",山东-泰山大观峰
-https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",湖北-武汉黄鹤楼
-https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",湖北-龙王庙
-https://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",湖北-武汉长江大桥
-https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国",广东-深圳世界之窗
-https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8?contentid=2820180516001
-
 #EXTINF:-1 ,黑龙江卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
 #EXTINF:-1 ,黔西南公共 (288p) [Geo-blocked]
