@@ -224,20 +224,19 @@ http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/2300000/mnf.m3u8
 #http://39.136.48.21:8089/PLTV/88888888/224/3221226075/index.m3u8
 
-#EXTINF:-1 group-title="体育-咪咕直播",咪咕1 tvg-name="咪咕1" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg"
+#EXTINF:-1 tvg-id="" tvg-name="咪咕1" tvg-logo="http://n.ysyz.top:99/buyaolian/mlzq.png" group-title="体育-咪咕直播",咪咕1
 http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-#EXTINF:-1 group-title="体育-咪咕直播",咪咕1 tvg-name="咪咕2" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg"
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕2
 http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
-#EXTINF:-1 group-title="体育-咪咕直播",咪咕1 tvg-name="咪咕3" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg"
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕3
 http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
-#EXTINF:-1 group-title="体育-咪咕直播",咪咕1 tvg-name="咪咕4" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg"
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕4
 http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
-#EXTINF:-1 group-title="体育-咪咕直播",咪咕1 tvg-name="咪咕5" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg"
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕5
 http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
-#EXTINF:-1 group-title="体育-咪咕直播",咪咕1 tvg-name="咪咕6" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg"
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕6
 http://39.135.134.34/000000001000/3000000001000010129/index.m3u8
-#EXTINF:-1 group-title="体育-咪咕直播",咪咕1 tvg-name="咪咕7" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg"
-http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕7
 #EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕8
 http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
 #EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕9
